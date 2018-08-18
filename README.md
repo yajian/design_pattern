@@ -11,3 +11,8 @@
 # 命令模式
  
 解释详见[设计模式-命令模式](https://yajian.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F/)
+
+# 状态模式
+
+解释详见[设计模式-状态模式](https://yajian.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F/)
+
