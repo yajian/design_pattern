@@ -12,7 +12,7 @@ import java.lang.reflect.InvocationTargetException;
  */
 public class StarveSingleton implements Serializable {
 
-    private static boolean flag = false;
+    private static volatile boolean flag = false;
 
     private static StarveSingleton instance = new StarveSingleton();
 
